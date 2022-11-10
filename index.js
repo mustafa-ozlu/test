@@ -8,7 +8,7 @@ dugme.addEventListener("click", function () {
     div.innerHTML = `<h1 >gjgjgjhgjh</h1>
         <h1 >mustafa</h1>
         <h1 >gjgjgjhgjh</h1>`;
-        dugme.innerText = "sil";
+        dugme.innerText = "Button";
   } else {
     div.innerHTML = "";
     dugme.innerText = "geri getir";
