@@ -1,2 +1,2 @@
 # test
-[live](https://wallace09.github.io/test/)
+[live](https://mustafa-ozlu.github.io/test/)
